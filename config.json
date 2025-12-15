@@ -1,0 +1,7 @@
+{
+  "BOT_TOKEN": "xxxxxxxxx",
+  "VIDEO_FOLDER": ["F:\\Video Songs\\Songs 1", "F:\\Video Songs\\2024", "F:\\Video Songs\\2023"],
+  "FILES_PER_PAGE": 50,
+  "SCHEDULE_JSON":"schedule.json",
+  "TIME_LIMIT": 1
+}
